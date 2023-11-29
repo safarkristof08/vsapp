@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\itarch23.props" />
+</Project>

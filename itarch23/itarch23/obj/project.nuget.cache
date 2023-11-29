@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bO0GD0aYs6QhJymd+fCqE2DUvnkZcuGEEMSs884sj2H8ajgRflaXbs3QpZYFx9HZGOzVK4KWc4xTNA6JIAOcTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skiki\\source\\repos\\vsapp2\\itarch23\\itarch23\\itarch23.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skiki\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
